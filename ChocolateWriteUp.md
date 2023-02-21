@@ -170,7 +170,9 @@ The flag was found on this page after passing verification successfully, and the
 flag: valentine{1ts_jus7_100%_cacao}
 
 
-Notes for future refernece: Mistakes in my judgment included a lack of 
+Error in Judgement for this challenge:
+1. In my methodology at first I was unaware of the JWT existence in the cookie header as JWT's were unfamiliar to me. I did some research on the formats of cookies and came across tokens on PortSwigger and found there is a specific format that JWT's have that was followed in the session cookie. Had I known more about JWT, I would've likely instantly recognized it earlier into the challenge.
+
 
 
 
